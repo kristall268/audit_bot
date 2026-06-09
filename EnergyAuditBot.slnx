@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EnergyAuditBot.Api/EnergyAuditBot.Api.csproj" />
+    <Project Path="src/EnergyAuditBot.Application/EnergyAuditBot.Application.csproj" />
+    <Project Path="src/EnergyAuditBot.Common/EnergyAuditBot.Common.csproj" />
+    <Project Path="src/EnergyAuditBot.Domain/EnergyAuditBot.Domain.csproj" />
+    <Project Path="src/EnergyAuditBot.Infrastructure/EnergyAuditBot.Infrastructure.csproj" />
+  </Folder>
+</Solution>
